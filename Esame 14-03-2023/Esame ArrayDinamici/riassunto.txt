@@ -1,0 +1,31 @@
+Elenco di brani:
+Brano 1:
+Titolo: bocca della verità
+Autore: ketama
+Durata in secondi: 426
+Riproduzioni: 4
+
+Brano 2:
+Titolo: we will rock you
+Autore: queen
+Durata in secondi: 121
+Riproduzioni: 4
+
+Brano 3:
+Titolo: it's my life
+Autore: bon jovi
+Durata in secondi: 226
+Riproduzioni: 1
+
+Brano 4:
+Titolo: sesso e samba 
+Autore: tony effe
+Durata in secondi: 194
+Riproduzioni: 2
+
+Brano 5:
+Titolo: the show must go on
+Autore: queen
+Durata in secondi: 276
+Riproduzioni: 3
+
